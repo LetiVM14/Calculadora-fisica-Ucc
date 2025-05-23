@@ -3,7 +3,7 @@
 Esta es una calculadora de magnitudes fisicas desarrollada en HTML, CSS y JavaScript. El proyecto fue diseñado con fines educativos por estudiantes de Ingeniería de Software de la universidad UCC.
 
 ## Autora
-- Leticia Vega
+- Leticia Vega Melo
 
 ## Tecnologías utilizadas
 
